@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.72] 
-[geo-lat::42.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.72] 
+[has_place_latitude::42.23] 
 [name::Prizren] 
 State ::  
 Country :: [[../../../../Yugoslavia]]  
