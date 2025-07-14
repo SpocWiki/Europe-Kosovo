@@ -40,11 +40,16 @@ markerFolder: ./Vučitrn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn|Vučitrn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.public|Vučitrn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.internal|Vučitrn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.protect|Vučitrn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.private|Vučitrn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.personal|Vučitrn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.secret|Vučitrn.secret]] 
+
+### [Vučitrn.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.public.md) 
+
+### [Vučitrn.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.internal.md) 
+
+### [Vučitrn.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.protect.md) 
+
+### [Vučitrn.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.private.md) 
+
+### [Vučitrn.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.personal.md) 
+
+### [Vučitrn.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.secret.md)
 

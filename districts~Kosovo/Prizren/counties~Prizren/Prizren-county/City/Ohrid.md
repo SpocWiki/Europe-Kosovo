@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Ohrid|Ohrid]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Ohrid.public|Ohrid.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Ohrid.internal|Ohrid.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Ohrid.protect|Ohrid.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Ohrid.private|Ohrid.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Ohrid.personal|Ohrid.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Ohrid.secret|Ohrid.secret]] 
+
+### [Ohrid.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.public.md) 
+
+### [Ohrid.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.internal.md) 
+
+### [Ohrid.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.protect.md) 
+
+### [Ohrid.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.private.md) 
+
+### [Ohrid.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.personal.md) 
+
+### [Ohrid.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.secret.md)
+

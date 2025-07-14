@@ -40,11 +40,16 @@ markerFolder: ./Vitina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vitina|Vitina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vitina.public|Vitina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vitina.internal|Vitina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vitina.protect|Vitina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vitina.private|Vitina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vitina.personal|Vitina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vitina.secret|Vitina.secret]] 
+
+### [Vitina.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneVitina.public.md) 
+
+### [Vitina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneVitina.internal.md) 
+
+### [Vitina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneVitina.protect.md) 
+
+### [Vitina.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneVitina.private.md) 
+
+### [Vitina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneVitina.personal.md) 
+
+### [Vitina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneVitina.secret.md)
 

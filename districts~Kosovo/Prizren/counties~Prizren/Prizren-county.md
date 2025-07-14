@@ -40,11 +40,16 @@ markerFolder: ./Prizren/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren|Prizren]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.public|Prizren.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.internal|Prizren.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.protect|Prizren.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.private|Prizren.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.personal|Prizren.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.secret|Prizren.secret]] 
+
+### [Prizren-county.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.public.md) 
+
+### [Prizren-county.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.internal.md) 
+
+### [Prizren-county.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.protect.md) 
+
+### [Prizren-county.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.private.md) 
+
+### [Prizren-county.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.personal.md) 
+
+### [Prizren-county.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.secret.md)
 

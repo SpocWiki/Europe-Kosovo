@@ -40,11 +40,16 @@ markerFolder: ./Kosovska_Kamenica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica|Kosovska_Kamenica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.public|Kosovska_Kamenica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.internal|Kosovska_Kamenica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.protect|Kosovska_Kamenica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.private|Kosovska_Kamenica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.personal|Kosovska_Kamenica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.secret|Kosovska_Kamenica.secret]] 
+
+### [Kosovska_Kamenica.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.public.md) 
+
+### [Kosovska_Kamenica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.internal.md) 
+
+### [Kosovska_Kamenica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.protect.md) 
+
+### [Kosovska_Kamenica.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.private.md) 
+
+### [Kosovska_Kamenica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.personal.md) 
+
+### [Kosovska_Kamenica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.secret.md)
 

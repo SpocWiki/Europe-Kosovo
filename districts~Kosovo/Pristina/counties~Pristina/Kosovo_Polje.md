@@ -40,11 +40,16 @@ markerFolder: ./Kosovo_Polje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovo_Polje|Kosovo_Polje]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovo_Polje.public|Kosovo_Polje.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovo_Polje.internal|Kosovo_Polje.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovo_Polje.protect|Kosovo_Polje.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovo_Polje.private|Kosovo_Polje.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovo_Polje.personal|Kosovo_Polje.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovo_Polje.secret|Kosovo_Polje.secret]] 
+
+### [Kosovo_Polje.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.public.md) 
+
+### [Kosovo_Polje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.internal.md) 
+
+### [Kosovo_Polje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.protect.md) 
+
+### [Kosovo_Polje.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.private.md) 
+
+### [Kosovo_Polje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.personal.md) 
+
+### [Kosovo_Polje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.secret.md)
 

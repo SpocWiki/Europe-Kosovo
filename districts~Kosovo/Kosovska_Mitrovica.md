@@ -40,11 +40,16 @@ markerFolder: ./Kosovska_Mitrovica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Mitrovica|Kosovska_Mitrovica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Mitrovica.public|Kosovska_Mitrovica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Mitrovica.internal|Kosovska_Mitrovica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Mitrovica.protect|Kosovska_Mitrovica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Mitrovica.private|Kosovska_Mitrovica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Mitrovica.personal|Kosovska_Mitrovica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Mitrovica.secret|Kosovska_Mitrovica.secret]] 
+
+### [Kosovska_Mitrovica.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoKosovska_Mitrovica.public.md) 
+
+### [Kosovska_Mitrovica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoKosovska_Mitrovica.internal.md) 
+
+### [Kosovska_Mitrovica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoKosovska_Mitrovica.protect.md) 
+
+### [Kosovska_Mitrovica.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoKosovska_Mitrovica.private.md) 
+
+### [Kosovska_Mitrovica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoKosovska_Mitrovica.personal.md) 
+
+### [Kosovska_Mitrovica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoKosovska_Mitrovica.secret.md)
 

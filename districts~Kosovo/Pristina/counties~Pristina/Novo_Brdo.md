@@ -40,11 +40,16 @@ markerFolder: ./Novo_Brdo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo|Novo_Brdo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.public|Novo_Brdo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.internal|Novo_Brdo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.protect|Novo_Brdo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.private|Novo_Brdo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.personal|Novo_Brdo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.secret|Novo_Brdo.secret]] 
+
+### [Novo_Brdo.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaNovo_Brdo.public.md) 
+
+### [Novo_Brdo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaNovo_Brdo.internal.md) 
+
+### [Novo_Brdo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaNovo_Brdo.protect.md) 
+
+### [Novo_Brdo.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaNovo_Brdo.private.md) 
+
+### [Novo_Brdo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaNovo_Brdo.personal.md) 
+
+### [Novo_Brdo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaNovo_Brdo.secret.md)
 
