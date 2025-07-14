@@ -41,15 +41,17 @@ markerFolder: ./Dečani/
 
 ## Confidential Links & Embeds: 
 
-### [Dečani.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaDečani.public.md) 
+### [Dečani](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.md) 
 
-### [Dečani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaDečani.internal.md) 
+### [Dečani.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.public.md) 
 
-### [Dečani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaDečani.protect.md) 
+### [Dečani.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.internal.md) 
 
-### [Dečani.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaDečani.private.md) 
+### [Dečani.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.protect.md) 
 
-### [Dečani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaDečani.personal.md) 
+### [Dečani.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.private.md) 
 
-### [Dečani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaDečani.secret.md)
+### [Dečani.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.personal.md) 
+
+### [Dečani.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.secret.md)
 

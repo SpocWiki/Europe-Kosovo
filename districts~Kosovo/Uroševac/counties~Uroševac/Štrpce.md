@@ -41,15 +41,17 @@ markerFolder: ./Štrpce/
 
 ## Confidential Links & Embeds: 
 
-### [Štrpce.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtrpce.public.md) 
+### [Štrpce](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.md) 
 
-### [Štrpce.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtrpce.internal.md) 
+### [Štrpce.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.public.md) 
 
-### [Štrpce.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtrpce.protect.md) 
+### [Štrpce.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.internal.md) 
 
-### [Štrpce.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtrpce.private.md) 
+### [Štrpce.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.protect.md) 
 
-### [Štrpce.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtrpce.personal.md) 
+### [Štrpce.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.private.md) 
 
-### [Štrpce.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtrpce.secret.md)
+### [Štrpce.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.personal.md) 
+
+### [Štrpce.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.secret.md)
 

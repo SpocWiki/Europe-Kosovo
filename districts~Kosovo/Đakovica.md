@@ -41,15 +41,17 @@ markerFolder: ./Đakovica/
 
 ## Confidential Links & Embeds: 
 
-### [Đakovica.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoĐakovica.public.md) 
+### [Đakovica](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica.md) 
 
-### [Đakovica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoĐakovica.internal.md) 
+### [Đakovica.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica.public.md) 
 
-### [Đakovica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoĐakovica.protect.md) 
+### [Đakovica.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica.internal.md) 
 
-### [Đakovica.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoĐakovica.private.md) 
+### [Đakovica.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica.protect.md) 
 
-### [Đakovica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoĐakovica.personal.md) 
+### [Đakovica.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica.private.md) 
 
-### [Đakovica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoĐakovica.secret.md)
+### [Đakovica.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica.personal.md) 
+
+### [Đakovica.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica.secret.md)
 

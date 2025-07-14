@@ -41,15 +41,17 @@ markerFolder: ./Obilić/
 
 ## Confidential Links & Embeds: 
 
-### [Obilić.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaObilić.public.md) 
+### [Obilić](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.md) 
 
-### [Obilić.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaObilić.internal.md) 
+### [Obilić.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.public.md) 
 
-### [Obilić.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaObilić.protect.md) 
+### [Obilić.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.internal.md) 
 
-### [Obilić.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaObilić.private.md) 
+### [Obilić.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.protect.md) 
 
-### [Obilić.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaObilić.personal.md) 
+### [Obilić.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.private.md) 
 
-### [Obilić.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaObilić.secret.md)
+### [Obilić.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.personal.md) 
+
+### [Obilić.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.secret.md)
 

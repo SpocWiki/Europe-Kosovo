@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Prizren.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityPrizren.public.md) 
+### [Prizren](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.md) 
 
-### [Prizren.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityPrizren.internal.md) 
+### [Prizren.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.public.md) 
 
-### [Prizren.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityPrizren.protect.md) 
+### [Prizren.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.internal.md) 
 
-### [Prizren.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityPrizren.private.md) 
+### [Prizren.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.protect.md) 
 
-### [Prizren.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityPrizren.personal.md) 
+### [Prizren.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.private.md) 
 
-### [Prizren.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityPrizren.secret.md)
+### [Prizren.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.personal.md) 
+
+### [Prizren.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.secret.md)
 

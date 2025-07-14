@@ -41,15 +41,17 @@ markerFolder: ./Kosovo_Polje/
 
 ## Confidential Links & Embeds: 
 
-### [Kosovo_Polje.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.public.md) 
+### [Kosovo_Polje](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.md) 
 
-### [Kosovo_Polje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.internal.md) 
+### [Kosovo_Polje.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.public.md) 
 
-### [Kosovo_Polje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.protect.md) 
+### [Kosovo_Polje.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.internal.md) 
 
-### [Kosovo_Polje.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.private.md) 
+### [Kosovo_Polje.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.protect.md) 
 
-### [Kosovo_Polje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.personal.md) 
+### [Kosovo_Polje.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.private.md) 
 
-### [Kosovo_Polje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaKosovo_Polje.secret.md)
+### [Kosovo_Polje.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.personal.md) 
+
+### [Kosovo_Polje.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.secret.md)
 

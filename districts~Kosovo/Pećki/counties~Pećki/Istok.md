@@ -41,15 +41,17 @@ markerFolder: ./Istok/
 
 ## Confidential Links & Embeds: 
 
-### [Istok.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pećki\counties~PećkiIstok.public.md) 
+### [Istok](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Istok.md) 
 
-### [Istok.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pećki\counties~PećkiIstok.internal.md) 
+### [Istok.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Istok.public.md) 
 
-### [Istok.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pećki\counties~PećkiIstok.protect.md) 
+### [Istok.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Istok.internal.md) 
 
-### [Istok.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pećki\counties~PećkiIstok.private.md) 
+### [Istok.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Istok.protect.md) 
 
-### [Istok.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pećki\counties~PećkiIstok.personal.md) 
+### [Istok.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Istok.private.md) 
 
-### [Istok.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pećki\counties~PećkiIstok.secret.md)
+### [Istok.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Istok.personal.md) 
+
+### [Istok.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Istok.secret.md)
 

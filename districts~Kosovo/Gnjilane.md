@@ -41,15 +41,17 @@ markerFolder: ./Gnjilane/
 
 ## Confidential Links & Embeds: 
 
-### [Gnjilane.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoGnjilane.public.md) 
+### [Gnjilane](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane.md) 
 
-### [Gnjilane.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoGnjilane.internal.md) 
+### [Gnjilane.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane.public.md) 
 
-### [Gnjilane.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoGnjilane.protect.md) 
+### [Gnjilane.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane.internal.md) 
 
-### [Gnjilane.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoGnjilane.private.md) 
+### [Gnjilane.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane.protect.md) 
 
-### [Gnjilane.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoGnjilane.personal.md) 
+### [Gnjilane.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane.private.md) 
 
-### [Gnjilane.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~KosovoGnjilane.secret.md)
+### [Gnjilane.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane.personal.md) 
+
+### [Gnjilane.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane.secret.md)
 

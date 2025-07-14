@@ -41,15 +41,17 @@ markerFolder: ./Podujevo/
 
 ## Confidential Links & Embeds: 
 
-### [Podujevo.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPodujevo.public.md) 
+### [Podujevo](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Podujevo.md) 
 
-### [Podujevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPodujevo.internal.md) 
+### [Podujevo.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Podujevo.public.md) 
 
-### [Podujevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPodujevo.protect.md) 
+### [Podujevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Podujevo.internal.md) 
 
-### [Podujevo.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPodujevo.private.md) 
+### [Podujevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Podujevo.protect.md) 
 
-### [Podujevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPodujevo.personal.md) 
+### [Podujevo.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Podujevo.private.md) 
 
-### [Podujevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPodujevo.secret.md)
+### [Podujevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Podujevo.personal.md) 
+
+### [Podujevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Podujevo.secret.md)
 

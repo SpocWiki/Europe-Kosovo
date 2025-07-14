@@ -41,15 +41,17 @@ markerFolder: ./Zubin_Potok/
 
 ## Confidential Links & Embeds: 
 
-### [Zubin_Potok.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZubin_Potok.public.md) 
+### [Zubin_Potok](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zubin_Potok.md) 
 
-### [Zubin_Potok.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZubin_Potok.internal.md) 
+### [Zubin_Potok.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zubin_Potok.public.md) 
 
-### [Zubin_Potok.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZubin_Potok.protect.md) 
+### [Zubin_Potok.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zubin_Potok.internal.md) 
 
-### [Zubin_Potok.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZubin_Potok.private.md) 
+### [Zubin_Potok.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zubin_Potok.protect.md) 
 
-### [Zubin_Potok.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZubin_Potok.personal.md) 
+### [Zubin_Potok.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zubin_Potok.private.md) 
 
-### [Zubin_Potok.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZubin_Potok.secret.md)
+### [Zubin_Potok.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zubin_Potok.personal.md) 
+
+### [Zubin_Potok.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zubin_Potok.secret.md)
 

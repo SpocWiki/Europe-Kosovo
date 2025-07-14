@@ -41,15 +41,17 @@ markerFolder: ./Priština/
 
 ## Confidential Links & Embeds: 
 
-### [Priština.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPriština.public.md) 
+### [Priština](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.md) 
 
-### [Priština.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPriština.internal.md) 
+### [Priština.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.public.md) 
 
-### [Priština.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPriština.protect.md) 
+### [Priština.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.internal.md) 
 
-### [Priština.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPriština.private.md) 
+### [Priština.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.protect.md) 
 
-### [Priština.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPriština.personal.md) 
+### [Priština.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.private.md) 
 
-### [Priština.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaPriština.secret.md)
+### [Priština.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.personal.md) 
+
+### [Priština.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.secret.md)
 

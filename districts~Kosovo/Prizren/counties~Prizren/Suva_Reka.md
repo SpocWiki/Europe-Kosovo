@@ -41,15 +41,17 @@ markerFolder: ./Suva_Reka/
 
 ## Confidential Links & Embeds: 
 
-### [Suva_Reka.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenSuva_Reka.public.md) 
+### [Suva_Reka](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.md) 
 
-### [Suva_Reka.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenSuva_Reka.internal.md) 
+### [Suva_Reka.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.public.md) 
 
-### [Suva_Reka.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenSuva_Reka.protect.md) 
+### [Suva_Reka.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.internal.md) 
 
-### [Suva_Reka.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenSuva_Reka.private.md) 
+### [Suva_Reka.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.protect.md) 
 
-### [Suva_Reka.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenSuva_Reka.personal.md) 
+### [Suva_Reka.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.private.md) 
 
-### [Suva_Reka.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenSuva_Reka.secret.md)
+### [Suva_Reka.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.personal.md) 
+
+### [Suva_Reka.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.secret.md)
 

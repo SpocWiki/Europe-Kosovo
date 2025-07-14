@@ -41,15 +41,17 @@ markerFolder: ./Lipljan/
 
 ## Confidential Links & Embeds: 
 
-### [Lipljan.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaLipljan.public.md) 
+### [Lipljan](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.md) 
 
-### [Lipljan.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaLipljan.internal.md) 
+### [Lipljan.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.public.md) 
 
-### [Lipljan.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaLipljan.protect.md) 
+### [Lipljan.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.internal.md) 
 
-### [Lipljan.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaLipljan.private.md) 
+### [Lipljan.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.protect.md) 
 
-### [Lipljan.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaLipljan.personal.md) 
+### [Lipljan.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.private.md) 
 
-### [Lipljan.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaLipljan.secret.md)
+### [Lipljan.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.personal.md) 
+
+### [Lipljan.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.secret.md)
 

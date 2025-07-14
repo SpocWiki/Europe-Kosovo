@@ -41,15 +41,17 @@ markerFolder: ./Mališevo/
 
 ## Confidential Links & Embeds: 
 
-### [Mališevo.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenMališevo.public.md) 
+### [Mališevo](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.md) 
 
-### [Mališevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenMališevo.internal.md) 
+### [Mališevo.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.public.md) 
 
-### [Mališevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenMališevo.protect.md) 
+### [Mališevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.internal.md) 
 
-### [Mališevo.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenMališevo.private.md) 
+### [Mališevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.protect.md) 
 
-### [Mališevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenMališevo.personal.md) 
+### [Mališevo.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.private.md) 
 
-### [Mališevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenMališevo.secret.md)
+### [Mališevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.personal.md) 
+
+### [Mališevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Srbica/
 
 ## Confidential Links & Embeds: 
 
-### [Srbica.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaSrbica.public.md) 
+### [Srbica](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Srbica.md) 
 
-### [Srbica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaSrbica.internal.md) 
+### [Srbica.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Srbica.public.md) 
 
-### [Srbica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaSrbica.protect.md) 
+### [Srbica.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Srbica.internal.md) 
 
-### [Srbica.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaSrbica.private.md) 
+### [Srbica.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Srbica.protect.md) 
 
-### [Srbica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaSrbica.personal.md) 
+### [Srbica.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Srbica.private.md) 
 
-### [Srbica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaSrbica.secret.md)
+### [Srbica.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Srbica.personal.md) 
+
+### [Srbica.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Srbica.secret.md)
 

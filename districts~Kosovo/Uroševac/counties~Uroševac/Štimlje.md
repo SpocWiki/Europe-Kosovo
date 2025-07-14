@@ -41,15 +41,17 @@ markerFolder: ./Štimlje/
 
 ## Confidential Links & Embeds: 
 
-### [Štimlje.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtimlje.public.md) 
+### [Štimlje](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.md) 
 
-### [Štimlje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtimlje.internal.md) 
+### [Štimlje.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.public.md) 
 
-### [Štimlje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtimlje.protect.md) 
+### [Štimlje.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.internal.md) 
 
-### [Štimlje.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtimlje.private.md) 
+### [Štimlje.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.protect.md) 
 
-### [Štimlje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtimlje.personal.md) 
+### [Štimlje.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.private.md) 
 
-### [Štimlje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Uroševac\counties~UroševacŠtimlje.secret.md)
+### [Štimlje.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.personal.md) 
+
+### [Štimlje.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.secret.md)
 

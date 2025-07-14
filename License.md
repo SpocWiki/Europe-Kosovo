@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\KosovoLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\KosovoLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\KosovoLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\KosovoLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\KosovoLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\KosovoLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/License.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Zvečan/
 
 ## Confidential Links & Embeds: 
 
-### [Zvečan.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZvečan.public.md) 
+### [Zvečan](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.md) 
 
-### [Zvečan.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZvečan.internal.md) 
+### [Zvečan.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.public.md) 
 
-### [Zvečan.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZvečan.protect.md) 
+### [Zvečan.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.internal.md) 
 
-### [Zvečan.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZvečan.private.md) 
+### [Zvečan.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.protect.md) 
 
-### [Zvečan.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZvečan.personal.md) 
+### [Zvečan.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.private.md) 
 
-### [Zvečan.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaZvečan.secret.md)
+### [Zvečan.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.personal.md) 
+
+### [Zvečan.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.secret.md)
 

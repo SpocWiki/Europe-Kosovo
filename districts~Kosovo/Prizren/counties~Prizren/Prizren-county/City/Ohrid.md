@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ohrid.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.public.md) 
+### [Ohrid](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.md) 
 
-### [Ohrid.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.internal.md) 
+### [Ohrid.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.public.md) 
 
-### [Ohrid.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.protect.md) 
+### [Ohrid.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.internal.md) 
 
-### [Ohrid.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.private.md) 
+### [Ohrid.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.protect.md) 
 
-### [Ohrid.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.personal.md) 
+### [Ohrid.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.private.md) 
 
-### [Ohrid.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~Prizren\Prizren-county\CityOhrid.secret.md)
+### [Ohrid.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.personal.md) 
+
+### [Ohrid.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.secret.md)
 

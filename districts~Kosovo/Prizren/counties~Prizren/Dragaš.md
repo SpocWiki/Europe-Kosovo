@@ -41,15 +41,17 @@ markerFolder: ./Dragaš/
 
 ## Confidential Links & Embeds: 
 
-### [Dragaš.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenDragaš.public.md) 
+### [Dragaš](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Dragaš.md) 
 
-### [Dragaš.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenDragaš.internal.md) 
+### [Dragaš.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Dragaš.public.md) 
 
-### [Dragaš.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenDragaš.protect.md) 
+### [Dragaš.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Dragaš.internal.md) 
 
-### [Dragaš.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenDragaš.private.md) 
+### [Dragaš.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Dragaš.protect.md) 
 
-### [Dragaš.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenDragaš.personal.md) 
+### [Dragaš.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Dragaš.private.md) 
 
-### [Dragaš.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenDragaš.secret.md)
+### [Dragaš.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Dragaš.personal.md) 
+
+### [Dragaš.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Dragaš.secret.md)
 

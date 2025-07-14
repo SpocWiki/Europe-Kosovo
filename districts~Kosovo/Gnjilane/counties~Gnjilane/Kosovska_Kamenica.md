@@ -41,15 +41,17 @@ markerFolder: ./Kosovska_Kamenica/
 
 ## Confidential Links & Embeds: 
 
-### [Kosovska_Kamenica.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.public.md) 
+### [Kosovska_Kamenica](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Kosovska_Kamenica.md) 
 
-### [Kosovska_Kamenica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.internal.md) 
+### [Kosovska_Kamenica.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Kosovska_Kamenica.public.md) 
 
-### [Kosovska_Kamenica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.protect.md) 
+### [Kosovska_Kamenica.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Kosovska_Kamenica.internal.md) 
 
-### [Kosovska_Kamenica.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.private.md) 
+### [Kosovska_Kamenica.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Kosovska_Kamenica.protect.md) 
 
-### [Kosovska_Kamenica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.personal.md) 
+### [Kosovska_Kamenica.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Kosovska_Kamenica.private.md) 
 
-### [Kosovska_Kamenica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Gnjilane\counties~GnjilaneKosovska_Kamenica.secret.md)
+### [Kosovska_Kamenica.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Kosovska_Kamenica.personal.md) 
+
+### [Kosovska_Kamenica.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Kosovska_Kamenica.secret.md)
 

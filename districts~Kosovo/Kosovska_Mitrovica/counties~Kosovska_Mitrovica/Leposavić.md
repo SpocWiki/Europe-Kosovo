@@ -41,15 +41,17 @@ markerFolder: ./Leposavić/
 
 ## Confidential Links & Embeds: 
 
-### [Leposavić.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaLeposavić.public.md) 
+### [Leposavić](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Leposavić.md) 
 
-### [Leposavić.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaLeposavić.internal.md) 
+### [Leposavić.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Leposavić.public.md) 
 
-### [Leposavić.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaLeposavić.protect.md) 
+### [Leposavić.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Leposavić.internal.md) 
 
-### [Leposavić.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaLeposavić.private.md) 
+### [Leposavić.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Leposavić.protect.md) 
 
-### [Leposavić.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaLeposavić.personal.md) 
+### [Leposavić.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Leposavić.private.md) 
 
-### [Leposavić.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaLeposavić.secret.md)
+### [Leposavić.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Leposavić.personal.md) 
+
+### [Leposavić.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Leposavić.secret.md)
 

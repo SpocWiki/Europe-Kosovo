@@ -41,15 +41,17 @@ markerFolder: ./Glogovac/
 
 ## Confidential Links & Embeds: 
 
-### [Glogovac.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaGlogovac.public.md) 
+### [Glogovac](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Glogovac.md) 
 
-### [Glogovac.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaGlogovac.internal.md) 
+### [Glogovac.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Glogovac.public.md) 
 
-### [Glogovac.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaGlogovac.protect.md) 
+### [Glogovac.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Glogovac.internal.md) 
 
-### [Glogovac.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaGlogovac.private.md) 
+### [Glogovac.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Glogovac.protect.md) 
 
-### [Glogovac.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaGlogovac.personal.md) 
+### [Glogovac.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Glogovac.private.md) 
 
-### [Glogovac.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Pristina\counties~PristinaGlogovac.secret.md)
+### [Glogovac.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Glogovac.personal.md) 
+
+### [Glogovac.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Glogovac.secret.md)
 

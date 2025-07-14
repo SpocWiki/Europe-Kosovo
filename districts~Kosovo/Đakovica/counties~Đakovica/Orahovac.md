@@ -41,15 +41,17 @@ markerFolder: ./Orahovac/
 
 ## Confidential Links & Embeds: 
 
-### [Orahovac.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaOrahovac.public.md) 
+### [Orahovac](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.md) 
 
-### [Orahovac.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaOrahovac.internal.md) 
+### [Orahovac.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.public.md) 
 
-### [Orahovac.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaOrahovac.protect.md) 
+### [Orahovac.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.internal.md) 
 
-### [Orahovac.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaOrahovac.private.md) 
+### [Orahovac.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.protect.md) 
 
-### [Orahovac.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaOrahovac.personal.md) 
+### [Orahovac.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.private.md) 
 
-### [Orahovac.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Đakovica\counties~ĐakovicaOrahovac.secret.md)
+### [Orahovac.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.personal.md) 
+
+### [Orahovac.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.secret.md)
 

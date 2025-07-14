@@ -41,15 +41,17 @@ markerFolder: ./Prizren/
 
 ## Confidential Links & Embeds: 
 
-### [Prizren-county.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.public.md) 
+### [Prizren-county](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.md) 
 
-### [Prizren-county.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.internal.md) 
+### [Prizren-county.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.public.md) 
 
-### [Prizren-county.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.protect.md) 
+### [Prizren-county.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.internal.md) 
 
-### [Prizren-county.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.private.md) 
+### [Prizren-county.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.protect.md) 
 
-### [Prizren-county.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.personal.md) 
+### [Prizren-county.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.private.md) 
 
-### [Prizren-county.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Prizren\counties~PrizrenPrizren-county.secret.md)
+### [Prizren-county.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.personal.md) 
+
+### [Prizren-county.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.secret.md)
 

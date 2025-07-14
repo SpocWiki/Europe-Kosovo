@@ -41,15 +41,17 @@ markerFolder: ./Vučitrn/
 
 ## Confidential Links & Embeds: 
 
-### [Vučitrn.public](/_public/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.public.md) 
+### [Vučitrn](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Vučitrn.md) 
 
-### [Vučitrn.internal](/_internal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.internal.md) 
+### [Vučitrn.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Vučitrn.public.md) 
 
-### [Vučitrn.protect](/_protect/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.protect.md) 
+### [Vučitrn.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Vučitrn.internal.md) 
 
-### [Vučitrn.private](/_private/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.private.md) 
+### [Vučitrn.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Vučitrn.protect.md) 
 
-### [Vučitrn.personal](/_personal/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.personal.md) 
+### [Vučitrn.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Vučitrn.private.md) 
 
-### [Vučitrn.secret](/_secret/\Earth\Continent\Europe\Europe~South\Kosovo\districts~Kosovo\Kosovska_Mitrovica\counties~Kosovska_MitrovicaVučitrn.secret.md)
+### [Vučitrn.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Vučitrn.personal.md) 
+
+### [Vučitrn.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Vučitrn.secret.md)
 
