@@ -1,30 +1,29 @@
 ---
-location: [ 42.3 , 20.8 ] 
+location:
+  - 42.3
+  - 20.8
 type: geo-Region
 title: Suva_Reka
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Suva_Reka
-
+  - Suva_Reka
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Suva_Reka
