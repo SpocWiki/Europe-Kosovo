@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Novo_Brdo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Novo_Brdo/
 markerFolder: ./Novo_Brdo/

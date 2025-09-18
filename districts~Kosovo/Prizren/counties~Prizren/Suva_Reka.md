@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Suva_Reka
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Suva_Reka/
 markerFolder: ./Suva_Reka/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Zubin_Potok
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Zubin_Potok/
 markerFolder: ./Zubin_Potok/

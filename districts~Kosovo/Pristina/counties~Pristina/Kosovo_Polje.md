@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kosovo_Polje
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kosovo_Polje/
 markerFolder: ./Kosovo_Polje/
