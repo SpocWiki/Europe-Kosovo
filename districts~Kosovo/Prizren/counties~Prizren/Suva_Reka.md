@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Suva_Reka
+  - Suva Reka
 location:
   - 42.3
   - 20.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Suva_Reka
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Suva_Reka

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kosovska_Kamenica
+  - Kosovska Kamenica
 location:
   - 42.6
   - 21.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kosovska_Kamenica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kosovska_Kamenica

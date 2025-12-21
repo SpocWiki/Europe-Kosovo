@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kosovska_Mitrovica
+  - Kosovska Mitrovica
 location:
   - 42.9
   - 20.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kosovska_Mitrovica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kosovska_Mitrovica

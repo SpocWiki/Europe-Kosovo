@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kosovo_Polje
+  - Kosovo Polje
 location:
   - 42.6
   - 21
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kosovo_Polje
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kosovo_Polje

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Zubin_Potok
+  - Zubin Potok
 location:
   - 42.9
   - 20.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Zubin_Potok
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Zubin_Potok
