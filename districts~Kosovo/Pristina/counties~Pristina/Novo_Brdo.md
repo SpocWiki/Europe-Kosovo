@@ -41,17 +41,17 @@ markerFolder: ./Novo_Brdo/
 
 ## Confidential Links & Embeds: 
 
-### [Novo_Brdo](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo|Novo_Brdo]] 
 
-### [Novo_Brdo.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.public|Novo_Brdo.public]] 
 
-### [Novo_Brdo.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.internal|Novo_Brdo.internal]] 
 
-### [Novo_Brdo.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.protect|Novo_Brdo.protect]] 
 
-### [Novo_Brdo.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.private|Novo_Brdo.private]] 
 
-### [Novo_Brdo.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.personal|Novo_Brdo.personal]] 
 
-### [Novo_Brdo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Novo_Brdo.secret|Novo_Brdo.secret]] 
 

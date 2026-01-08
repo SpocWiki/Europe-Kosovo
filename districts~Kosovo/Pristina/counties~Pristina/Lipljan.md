@@ -40,17 +40,17 @@ markerFolder: ./Lipljan/
 
 ## Confidential Links & Embeds: 
 
-### [Lipljan](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan|Lipljan]] 
 
-### [Lipljan.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.public|Lipljan.public]] 
 
-### [Lipljan.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.internal|Lipljan.internal]] 
 
-### [Lipljan.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.protect|Lipljan.protect]] 
 
-### [Lipljan.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.private|Lipljan.private]] 
 
-### [Lipljan.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.personal|Lipljan.personal]] 
 
-### [Lipljan.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Lipljan.secret|Lipljan.secret]] 
 

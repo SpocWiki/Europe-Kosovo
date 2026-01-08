@@ -40,17 +40,17 @@ markerFolder: ./Vitina/
 
 ## Confidential Links & Embeds: 
 
-### [Vitina](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina|Vitina]] 
 
-### [Vitina.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.public|Vitina.public]] 
 
-### [Vitina.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.internal|Vitina.internal]] 
 
-### [Vitina.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.protect|Vitina.protect]] 
 
-### [Vitina.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.private|Vitina.private]] 
 
-### [Vitina.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.personal|Vitina.personal]] 
 
-### [Vitina.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Gnjilane/counties~Gnjilane/Vitina.secret|Vitina.secret]] 
 

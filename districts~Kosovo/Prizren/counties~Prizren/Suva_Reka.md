@@ -41,17 +41,17 @@ markerFolder: ./Suva_Reka/
 
 ## Confidential Links & Embeds: 
 
-### [Suva_Reka](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka|Suva_Reka]] 
 
-### [Suva_Reka.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.public|Suva_Reka.public]] 
 
-### [Suva_Reka.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.internal|Suva_Reka.internal]] 
 
-### [Suva_Reka.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.protect|Suva_Reka.protect]] 
 
-### [Suva_Reka.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.private|Suva_Reka.private]] 
 
-### [Suva_Reka.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.personal|Suva_Reka.personal]] 
 
-### [Suva_Reka.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Suva_Reka.secret|Suva_Reka.secret]] 
 

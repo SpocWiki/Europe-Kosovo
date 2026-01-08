@@ -41,17 +41,17 @@ markerFolder: ./Uroševac/
 
 ## Confidential Links & Embeds: 
 
-### [Uroševac-county](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county|Uroševac-county]] 
 
-### [Uroševac-county.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.public|Uroševac-county.public]] 
 
-### [Uroševac-county.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.internal|Uroševac-county.internal]] 
 
-### [Uroševac-county.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.protect|Uroševac-county.protect]] 
 
-### [Uroševac-county.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.private|Uroševac-county.private]] 
 
-### [Uroševac-county.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.personal|Uroševac-county.personal]] 
 
-### [Uroševac-county.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Uroševac-county.secret|Uroševac-county.secret]] 
 

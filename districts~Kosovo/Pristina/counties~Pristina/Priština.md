@@ -40,17 +40,17 @@ markerFolder: ./Priština/
 
 ## Confidential Links & Embeds: 
 
-### [Priština](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština|Priština]] 
 
-### [Priština.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.public|Priština.public]] 
 
-### [Priština.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.internal|Priština.internal]] 
 
-### [Priština.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.protect|Priština.protect]] 
 
-### [Priština.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.private|Priština.private]] 
 
-### [Priština.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.personal|Priština.personal]] 
 
-### [Priština.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Priština.secret|Priština.secret]] 
 

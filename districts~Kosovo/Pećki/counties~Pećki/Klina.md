@@ -40,17 +40,17 @@ markerFolder: ./Klina/
 
 ## Confidential Links & Embeds: 
 
-### [Klina](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina|Klina]] 
 
-### [Klina.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.public|Klina.public]] 
 
-### [Klina.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.internal|Klina.internal]] 
 
-### [Klina.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.protect|Klina.protect]] 
 
-### [Klina.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.private|Klina.private]] 
 
-### [Klina.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.personal|Klina.personal]] 
 
-### [Klina.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Klina.secret|Klina.secret]] 
 

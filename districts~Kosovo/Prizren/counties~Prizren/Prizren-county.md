@@ -41,17 +41,17 @@ markerFolder: ./Prizren/
 
 ## Confidential Links & Embeds: 
 
-### [Prizren-county](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county|Prizren-county]] 
 
-### [Prizren-county.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.public|Prizren-county.public]] 
 
-### [Prizren-county.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.internal|Prizren-county.internal]] 
 
-### [Prizren-county.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.protect|Prizren-county.protect]] 
 
-### [Prizren-county.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.private|Prizren-county.private]] 
 
-### [Prizren-county.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.personal|Prizren-county.personal]] 
 
-### [Prizren-county.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county.secret|Prizren-county.secret]] 
 

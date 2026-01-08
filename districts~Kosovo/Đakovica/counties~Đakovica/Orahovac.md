@@ -40,17 +40,17 @@ markerFolder: ./Orahovac/
 
 ## Confidential Links & Embeds: 
 
-### [Orahovac](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac|Orahovac]] 
 
-### [Orahovac.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.public|Orahovac.public]] 
 
-### [Orahovac.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.internal|Orahovac.internal]] 
 
-### [Orahovac.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.protect|Orahovac.protect]] 
 
-### [Orahovac.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.private|Orahovac.private]] 
 
-### [Orahovac.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.personal|Orahovac.personal]] 
 
-### [Orahovac.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Orahovac.secret|Orahovac.secret]] 
 

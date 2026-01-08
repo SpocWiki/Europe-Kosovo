@@ -40,17 +40,17 @@ markerFolder: ./Štrpce/
 
 ## Confidential Links & Embeds: 
 
-### [Štrpce](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce|Štrpce]] 
 
-### [Štrpce.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.public|Štrpce.public]] 
 
-### [Štrpce.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.internal|Štrpce.internal]] 
 
-### [Štrpce.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.protect|Štrpce.protect]] 
 
-### [Štrpce.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.private|Štrpce.private]] 
 
-### [Štrpce.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.personal|Štrpce.personal]] 
 
-### [Štrpce.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štrpce.secret|Štrpce.secret]] 
 

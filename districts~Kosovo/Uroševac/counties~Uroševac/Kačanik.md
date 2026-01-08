@@ -40,17 +40,17 @@ markerFolder: ./Kačanik/
 
 ## Confidential Links & Embeds: 
 
-### [Kačanik](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik|Kačanik]] 
 
-### [Kačanik.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.public|Kačanik.public]] 
 
-### [Kačanik.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.internal|Kačanik.internal]] 
 
-### [Kačanik.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.protect|Kačanik.protect]] 
 
-### [Kačanik.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.private|Kačanik.private]] 
 
-### [Kačanik.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.personal|Kačanik.personal]] 
 
-### [Kačanik.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Kačanik.secret|Kačanik.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33081
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.8
+dv_has_place_latitude: 42.13
+dv_name: Ohrid
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.8] 
-[has_place_latitude::42.13] 
-[name::Ohrid] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ohrid](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid|Ohrid]] 
 
-### [Ohrid.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.public|Ohrid.public]] 
 
-### [Ohrid.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.internal|Ohrid.internal]] 
 
-### [Ohrid.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.protect|Ohrid.protect]] 
 
-### [Ohrid.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.private|Ohrid.private]] 
 
-### [Ohrid.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.personal|Ohrid.personal]] 
 
-### [Ohrid.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Ohrid.secret|Ohrid.secret]] 
 

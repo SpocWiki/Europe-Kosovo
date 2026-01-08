@@ -41,17 +41,17 @@ markerFolder: ./Kosovo_Polje/
 
 ## Confidential Links & Embeds: 
 
-### [Kosovo_Polje](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje|Kosovo_Polje]] 
 
-### [Kosovo_Polje.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.public|Kosovo_Polje.public]] 
 
-### [Kosovo_Polje.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.internal|Kosovo_Polje.internal]] 
 
-### [Kosovo_Polje.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.protect|Kosovo_Polje.protect]] 
 
-### [Kosovo_Polje.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.private|Kosovo_Polje.private]] 
 
-### [Kosovo_Polje.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.personal|Kosovo_Polje.personal]] 
 
-### [Kosovo_Polje.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Kosovo_Polje.secret|Kosovo_Polje.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Dečani/
 
 ## Confidential Links & Embeds: 
 
-### [Dečani](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani|Dečani]] 
 
-### [Dečani.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.public|Dečani.public]] 
 
-### [Dečani.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.internal|Dečani.internal]] 
 
-### [Dečani.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.protect|Dečani.protect]] 
 
-### [Dečani.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.private|Dečani.private]] 
 
-### [Dečani.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.personal|Dečani.personal]] 
 
-### [Dečani.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Đakovica/counties~Đakovica/Dečani.secret|Dečani.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33530
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.72
+dv_has_place_latitude: 42.23
+dv_name: Prizren
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.72] 
-[has_place_latitude::42.23] 
-[name::Prizren] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Prizren](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren|Prizren]] 
 
-### [Prizren.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.public|Prizren.public]] 
 
-### [Prizren.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.internal|Prizren.internal]] 
 
-### [Prizren.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.protect|Prizren.protect]] 
 
-### [Prizren.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.private|Prizren.private]] 
 
-### [Prizren.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.personal|Prizren.personal]] 
 
-### [Prizren.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Prizren-county/City/Prizren.secret|Prizren.secret]] 
 

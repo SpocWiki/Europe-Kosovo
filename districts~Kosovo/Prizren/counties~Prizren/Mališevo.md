@@ -40,17 +40,17 @@ markerFolder: ./Mališevo/
 
 ## Confidential Links & Embeds: 
 
-### [Mališevo](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo|Mališevo]] 
 
-### [Mališevo.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.public|Mališevo.public]] 
 
-### [Mališevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.internal|Mališevo.internal]] 
 
-### [Mališevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.protect|Mališevo.protect]] 
 
-### [Mališevo.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.private|Mališevo.private]] 
 
-### [Mališevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.personal|Mališevo.personal]] 
 
-### [Mališevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Prizren/counties~Prizren/Mališevo.secret|Mališevo.secret]] 
 

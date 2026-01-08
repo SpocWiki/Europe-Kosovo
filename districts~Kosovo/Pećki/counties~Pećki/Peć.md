@@ -39,17 +39,17 @@ markerFolder: ./Peć/
 
 ## Confidential Links & Embeds: 
 
-### [Peć](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć|Peć]] 
 
-### [Peć.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.public|Peć.public]] 
 
-### [Peć.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.internal|Peć.internal]] 
 
-### [Peć.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.protect|Peć.protect]] 
 
-### [Peć.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.private|Peć.private]] 
 
-### [Peć.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.personal|Peć.personal]] 
 
-### [Peć.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pećki/counties~Pećki/Peć.secret|Peć.secret]] 
 

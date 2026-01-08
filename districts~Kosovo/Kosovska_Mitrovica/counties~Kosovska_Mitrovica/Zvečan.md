@@ -40,17 +40,17 @@ markerFolder: ./Zvečan/
 
 ## Confidential Links & Embeds: 
 
-### [Zvečan](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan|Zvečan]] 
 
-### [Zvečan.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.public|Zvečan.public]] 
 
-### [Zvečan.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.internal|Zvečan.internal]] 
 
-### [Zvečan.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.protect|Zvečan.protect]] 
 
-### [Zvečan.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.private|Zvečan.private]] 
 
-### [Zvečan.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.personal|Zvečan.personal]] 
 
-### [Zvečan.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica/counties~Kosovska_Mitrovica/Zvečan.secret|Zvečan.secret]] 
 

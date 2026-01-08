@@ -40,17 +40,17 @@ markerFolder: ./Obilić/
 
 ## Confidential Links & Embeds: 
 
-### [Obilić](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić|Obilić]] 
 
-### [Obilić.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.public|Obilić.public]] 
 
-### [Obilić.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.internal|Obilić.internal]] 
 
-### [Obilić.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.protect|Obilić.protect]] 
 
-### [Obilić.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.private|Obilić.private]] 
 
-### [Obilić.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.personal|Obilić.personal]] 
 
-### [Obilić.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Pristina/counties~Pristina/Obilić.secret|Obilić.secret]] 
 

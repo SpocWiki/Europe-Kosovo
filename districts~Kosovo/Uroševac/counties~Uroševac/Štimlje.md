@@ -40,17 +40,17 @@ markerFolder: ./Štimlje/
 
 ## Confidential Links & Embeds: 
 
-### [Štimlje](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje|Štimlje]] 
 
-### [Štimlje.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.public|Štimlje.public]] 
 
-### [Štimlje.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.internal|Štimlje.internal]] 
 
-### [Štimlje.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.protect|Štimlje.protect]] 
 
-### [Štimlje.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.private|Štimlje.private]] 
 
-### [Štimlje.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.personal|Štimlje.personal]] 
 
-### [Štimlje.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Uroševac/counties~Uroševac/Štimlje.secret|Štimlje.secret]] 
 

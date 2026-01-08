@@ -41,17 +41,17 @@ markerFolder: ./Kosovska_Mitrovica/
 
 ## Confidential Links & Embeds: 
 
-### [Kosovska_Mitrovica](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica|Kosovska_Mitrovica]] 
 
-### [Kosovska_Mitrovica.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.public|Kosovska_Mitrovica.public]] 
 
-### [Kosovska_Mitrovica.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.internal|Kosovska_Mitrovica.internal]] 
 
-### [Kosovska_Mitrovica.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.protect|Kosovska_Mitrovica.protect]] 
 
-### [Kosovska_Mitrovica.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.private|Kosovska_Mitrovica.private]] 
 
-### [Kosovska_Mitrovica.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.personal|Kosovska_Mitrovica.personal]] 
 
-### [Kosovska_Mitrovica.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Kosovo/districts~Kosovo/Kosovska_Mitrovica.secret|Kosovska_Mitrovica.secret]] 
 
