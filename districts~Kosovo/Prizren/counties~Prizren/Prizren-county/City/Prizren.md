@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.72
 dv_has_place_latitude: 42.23
-dv_name: Prizren
+dv_has_name_: Prizren
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
